@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "STRIKE BACK",
+  "base_artist": "BACK-ON",
+  "createdAt": "2026-02-15T04:31:13.338531Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Strike Back",
+      "artist": "Bonfire",
+      "has_synced": false,
+      "path": "select/01_Strike_Back_Bonfire.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Strike Back",
+      "artist": "U.D.O. feat. Das Musikkorps Der Bundeswehr",
+      "has_synced": false,
+      "path": "select/02_We_Strike_Back_U.D.O._feat._Das_Musikkorps_Der_Bundeswehr.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STRIKE BACK",
+      "artist": "BACK-ON",
+      "has_synced": true,
+      "path": "select/03_STRIKE_BACK_BACK-ON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Strike Back",
+      "artist": "tsutchie",
+      "has_synced": false,
+      "path": "select/04_Strike_Back_tsutchie.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Long Way From Home  (Strike Back soundtrack)",
+      "artist": "The Heavy",
+      "has_synced": true,
+      "path": "select/05_Long_Way_From_Home_(Strike_Back_soundtrack)_The_Heavy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Strike Back",
+      "artist": "FIDDLER'S GREEN",
+      "has_synced": true,
+      "path": "select/06_Strike_Back_FIDDLER'S_GREEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Strike Back (From \"Fairy Tail\") [feat. Natewantstobattle]",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/07_Strike_Back_(From__Fairy_Tail_)_[feat._Natewantstobattle]_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Strike Back (Fairy Tail)",
+      "artist": "AmaLee feat. Natewantstobattle",
+      "has_synced": true,
+      "path": "select/08_Strike_Back_(Fairy_Tail)_AmaLee_feat._Natewantstobattle.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Strike Back",
+      "artist": "We As Human",
+      "has_synced": true,
+      "path": "select/09_Strike_Back_We_As_Human.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rosie Strike Back",
+      "artist": "Rosanne Cash",
+      "has_synced": false,
+      "path": "select/10_Rosie_Strike_Back_Rosanne_Cash.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Strike Back",
+      "artist": "Caleb Hyles",
+      "has_synced": false,
+      "path": "select/11_Strike_Back_Caleb_Hyles.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Strike Back (Fairy Tail)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/12_Strike_Back_(Fairy_Tail)_AmaLee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STRIKE BACK",
+      "artist": "BACK-ON",
+      "has_synced": false,
+      "path": "select/pl_01_STRIKE_BACK_BACK-ON.txt"
+    }
+  ]
+}
